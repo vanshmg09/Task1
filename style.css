@@ -1,0 +1,62 @@
+/* Style the whole webpage */
+
+body{
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 30px;
+}
+
+/* Main Heading */
+
+h1{
+    color: darkblue;
+}
+
+/* Sub Heading */
+
+h2{
+    color: green;
+}
+
+/* Paragraph */
+
+p{
+    font-size: 18px;
+    color: #333;
+}
+
+/* Image */
+
+img{
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+/* Link */
+
+a{
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+a:hover{
+    color: red;
+}
+
+/* Button */
+
+button{
+    background-color: green;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover{
+    background-color: darkgreen;
+}
